@@ -1,0 +1,14 @@
+# Historické snímky Země z vesmíru: Analogová vs. Digitální technika
+
+Následující tabulka zachycuje evoluci technologií používaných k fotografování planety Země z vesmíru, včetně specifikací snímačů, rozlišení a zajímavostí.
+
+| Mise a datum | Typ technologie | Rozlišení snímače (Mpx / Pixely) nebo formát filmu | Technické detaily a zajímavosti |
+| :--- | :--- | :--- | :--- |
+| **Raketa V-2 (č. 13)** <br>24. října 1946 | **Analogová** | **35mm** kinofilm | Fotoaparát DeVry pořizoval snímek každých 1,5 sekundy. Raketa sice při dopadu rychlostí 150 m/s explodovala, ale film přežil v ocelovém pouzdře. Skenování ve 4000 DPI dává ekvivalent **10 až 20 Mpx**. |
+| **Aerobee AJ10-24** <br>5. října 1954 | **Analogová** | **117** jednotlivých filmových políček | První barevná fotomozaika. Vědci poskládali 117 samostatných snímků pořízených z výšky 160 km, čímž vznikl první ucelený pohled na zakřivení Země. |
+| **Lunar Orbiter 1** <br>23. srpna 1966 | **Hybridní** (Analog / Elektronika) | **~330 Megapixelů** <br>(Rekonstruovaný plný snímek) | Automatická temná komora přímo na palubě vyvolala 70mm film v mikrogravitaci. Následně jej elektronický paprsek naskenoval a odeslal na Zemi. Skládal se z pásů o rozměrech až **20 880 × 15 820 pixelů**. |
+| **Satelit ATS-3** <br>10. listopadu 1967 | **Digitální / Elektronická** <br>(Řádkový sken) | **~5,7 Megapixelu** <br>(Raster 2400 × 2400 řádků) | Neměl pevné pixely. Využíval fotonásobič, který snímal Zemi řádek po řádku díky rotaci samotné družice. Tento snímek se stal ikonickou obálkou katalogu *Whole Earth Catalog*. |
+| **Apollo 8 (Earthrise)** <br>24. prosince 1968 | **Analogová** | **70mm upravený film** <br>(Kodak Ektachrome) | Astronaut Bill Anders fotil černobíle, když uviděl vycházet Zemi. Rychle vyměnil zásobník za barevný 70mm film Kodak. Dnešní archivní skeny negativů v 8000 DPI dosahují detailů přes **50 až 100+ Mpx**. |
+| **Mariner 10** <br>Listopad 1973 | **Digitální / Elektronická** <br>(Snímací elektronka Vidicon) | **0,58 Megapixelu** <br>(832 × 700 pixelů) | Světlo zrcadlového dalekohledu se promítalo na chemický terčík uvnitř televizní elektronky Vidicon. Data byla převáděna přímo do **8bitového digitálního kódu** z výšky 2,6 milionu km. |
+| **Voyager 1 (Pale Blue Dot)** <br>14. února 1990 | **Digitální / Elektronická** <br>(Snímací elektronka Vidicon) | **0,64 Megapixelu** <br>(800 × 800 pixelů) | Pomalu skenující televizní elektronka. Data byla uložena na magnetickou pásku a odeslána jako **8bitový digitální proud**. Země zde zabírá pouhých **0,12 pixelu**. |
+| **Artemis II (Hello, World)** <br>3. dubna 2026 | **Digitální** <br>(Snímač CMOS) | **20,8 Megapixelu** <br>(5568 × 3712 pixelů) | Upravená komerční zrcadlovka **Nikon D5** s full-frame CMOS snímačem. Astronaut Reid Wiseman zachytil odvrácenou stranu Země osvětlenou Měsícem, městská světla a **dvě polární záře současně**. |
