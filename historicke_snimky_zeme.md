@@ -1,5 +1,7 @@
 # Historické snímky Země z vesmíru: Analogová vs. Digitální technika
+
 *Cele generovano AI*
+
 Následující tabulka zachycuje evoluci technologií používaných k fotografování planety Země z vesmíru, včetně specifikací snímačů, rozlišení a zajímavostí.
 
 | Mise a datum | Typ technologie | Rozlišení snímače (Mpx / Pixely) nebo formát filmu | Technické detaily a zajímavosti |
