@@ -7,5 +7,4 @@
 - Skenování probíhalo pomocí ultra tenkého paprsku světla (5 um široký, 1/20 lidského vlasu) který nasvicoval posouváním segment o šířce 2.2 mm. Každý 2,5 cm filmového pásu tak byl prosvícen asi **17 000**, během toho e film postupně dál odvíjel. Na druhé straně byl fotoelektrický článek. Jelikož film funguje na prosvicování, intenzita prošlého světla se měnila s tmavostí daných částí filmu. to poté bylo konvertováno jako **analogový** elektrický signál, posílaný rádiovými vlnami zpátky na Zem.
 ![Diagram Bimatove Technologie](hsklocamdiag_med.jpg)
 - Na Zemi se data příjmala a inverzně nasvítila na 35mm filmové pásky. Ty byly pak pověšeny vedle sebe. 
-- Automatická temná komora na palubě. Volání filmu v mikrogravitaci. Pomocí elektronického paprsku naskenováno a posláno na Zemi. (Vysvětlit jak náročné to muselo být. Možná najít metodu skenování a jakým signálem poslali na zem, jestli rádio?)
 - Během tohoto skenování Měsíce (16. orbit) se provedl manévr k natočení se k Zemi. Snímek byl vyfocen oběma optikami.
